@@ -4,3 +4,4 @@
 - The Odin project - <https://www.theodinproject.com/>
 - Перевод курса TheOdinProject - <https://github.com/vectree/web-development-101>
 - Джуность - <https://anmedio.github.io/junost/>
+- Изучение git (игра) - https://learngitbranching.js.org/?locale=ru_RU
